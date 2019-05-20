@@ -1,3 +1,2 @@
 theme: jekyll-theme-time-machine
 markdown: kramdown
-* TOC {:toc}
