@@ -1,4 +1,4 @@
-* TOC
+* Table of Contents
 {:toc}
 
 ## Welcome to GitHub Pages
